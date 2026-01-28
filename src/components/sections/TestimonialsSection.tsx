@@ -37,7 +37,7 @@ const TestimonialsSection: React.FC = () => {
     {
       content: "BrainyGyes delivered an exceptional product that exceeded our expectations. Their team was professional, communicative, and technically skilled.",
       author: "Akash Kumar",
-      position: "Founder of Alchemycores",
+      position: "Founder of Knight Kitchen",
       imageUrl: "/assets/Knight-Kitchen.png"
     },
     {
