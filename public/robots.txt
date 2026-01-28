@@ -1,0 +1,21 @@
+# BrainyGyes Technology - robots.txt
+# https://www.brainygyes.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://www.brainygyes.com/sitemap.xml
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
